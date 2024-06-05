@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🏴
 
-<!--
-**CarlosHenriquereis102/CarlosHenriquereis102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos
 
-Here are some ideas to get you started:
+- Faço curso de Linha de Produção
+- Toco violão, Guitarra, Teclado 
+- Gosto de ouvi música
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Você pode entra em contato comigo 📧
+
+  carlosreis66637gmail.com
+
+  @carlosbnss
+
+  ![](https://media1.tenor.com/m/LO5LF4ge6jgAAAAC/teq-ultimate-gohan-teen-gohan.gif)
